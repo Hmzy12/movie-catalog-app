@@ -38,7 +38,7 @@ Untuk menjalankan proyek ini di komputer Anda, ikuti langkah-langkah berikut:
 
 1.  **Clone repositori ini:**
     ```bash
-    git clone [https://github.com/](https://github.com/)Hmzy12/movie-catalog-app.git
+    git clone https://github.com/Hmzy12/movie-catalog-app.git
     ```
 
 2.  **Masuk ke direktori proyek:**
